@@ -9,8 +9,10 @@
 - 😄 I've already mastered MERN Stack and Data Structures and Algorithms.
 - 🔭 I’m currently working on MERN Stack Technologies.
 - 🔔 Ask me anything about web development.
+- ✨ Consistently Coding on LeetCode [Leetcode](https://leetcode.com/u/ranga_dharma_teja/)
 - 😊 Reach out me [rangadharmateja0@gmail.com](rangadharmateja0@gmail.com)
 - 🥇 You can find my resume [here!]()
+  
 
 # Skills 
 ![](https://camo.githubusercontent.com/701b46c1e1dc9fb3be6d57e01ab8b1424861c607048d6797c1493c59c904d39a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d617232312e737667) ![](https://camo.githubusercontent.com/989e1df1f8ff8d155b8737966ef21433650515ee07a9ae79a415242e94248f2a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f6373732f77335f6373732d617232312e737667)
