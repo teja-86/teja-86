@@ -27,6 +27,7 @@
 ![](https://camo.githubusercontent.com/60f5953347d22766f19d5905a12e1e9c00195a87a2e992a684890d63cd7b223c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d617232312e737667)
 ![](https://camo.githubusercontent.com/06b4e5bff59158170c7de80649579da23a0fdf97fb477775f829f012cd05ef22/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176612f6a6176612d617232312e737667)
 ![](https://camo.githubusercontent.com/bbfc91d1722146450deba77bd68fc168ca346890f377fa0d77b27e906797cca5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d617232312e737667)
+<img src="https://github.com/yourusername/yourrepository/raw/main/assets/images/javascript.png" width="200"/>
 # Contact Me
 - 📧 Email: [rangadharmateja0@gmail.com](rangadharmateja0@gmail.com).
 - 👨🏻‍💻 LinkedIn: [www.linkedin.com/in/ranga-dharma-teja-kuntumalla-127b59239](www.linkedin.com/in/ranga-dharma-teja-kuntumalla-127b59239).
