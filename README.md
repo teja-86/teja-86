@@ -34,7 +34,7 @@
 ## TweetHub
 [![](https://github.com/teja-86/TweetHub/blob/master/frontend/TweetHub%20Project%20.jpg)](https://tweethub-adle.onrender.com)
 ## CareerConnect Pro
-[![](https://github.com/teja-86/CareerConnect-Pro/blob/main/CareerConnectPro.jpg)]()
+[![](https://github.com/teja-86/CareerConnect-Pro/blob/main/CareerConnectPro.jpg)](https://github.com/teja-86/CareerConnect-Pro)
 # Contact Me
 - 📧 Email: [rangadharmateja0@gmail.com](rangadharmateja0@gmail.com).
 - 👨🏻‍💻 LinkedIn: [www.linkedin.com/in/ranga-dharma-teja-kuntumalla-127b59239](www.linkedin.com/in/ranga-dharma-teja-kuntumalla-127b59239).
