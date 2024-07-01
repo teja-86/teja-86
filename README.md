@@ -37,6 +37,8 @@
 [![](https://github.com/teja-86/CareerConnect-Pro/blob/main/CareerConnectPro.jpg)](https://github.com/teja-86/CareerConnect-Pro)
 ## RoyalTrips
 [![](https://github.com/teja-86/Online-Tourism-Website/blob/main/RoyalTrips%20Project.jpg)](https://tangerine-figolla-123be9.netlify.app/)
+## AI Text Summarizer
+[![](https://github.com/teja-86/AI-Text-Summarizer/blob/main/AI%20Text%20Summarizer%20Project.png)](https://github.com/teja-86/AI-Text-Summarizer/tree/main)
 # Contact Me
 - 📧 Email: [rangadharmateja0@gmail.com](rangadharmateja0@gmail.com).
 - 👨🏻‍💻 LinkedIn: [www.linkedin.com/in/ranga-dharma-teja-kuntumalla-127b59239](www.linkedin.com/in/ranga-dharma-teja-kuntumalla-127b59239).
