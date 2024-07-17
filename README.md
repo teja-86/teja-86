@@ -36,10 +36,12 @@
 [![](https://github.com/teja-86/TweetHub/blob/master/frontend/TweetHub%20Project%20.jpg)](https://tweethub-adle.onrender.com)
 ## CareerConnect Pro
 [![](https://github.com/teja-86/CareerConnect-Pro/blob/main/CareerConnectPro.jpg)](https://github.com/teja-86/CareerConnect-Pro)
-## RoyalTrips
-[![](https://github.com/teja-86/Online-Tourism-Website/blob/main/RoyalTrips%20Project.jpg)](https://tangerine-figolla-123be9.netlify.app/)
 ## AI Text Summarizer
 [![](https://github.com/teja-86/AI-Text-Summarizer/blob/main/AI%20Text%20Summarizer%20Project.png)](https://github.com/teja-86/AI-Text-Summarizer/tree/main)
+## Portfolio
+[![](https://github.com/teja-86/Portfolio/blob/main/public/assets/MyPortfolio.jpg)](https://portfolio-wbod.onrender.com/)
+## RoyalTrips
+[![](https://github.com/teja-86/Online-Tourism-Website/blob/main/RoyalTrips%20Project.jpg)](https://tangerine-figolla-123be9.netlify.app/)
 # Contact Me
 - 📧 Email: [rangadharmateja0@gmail.com](rangadharmateja0@gmail.com).
 - 👨🏻‍💻 LinkedIn: [www.linkedin.com/in/ranga-dharma-teja-kuntumalla-127b59239](www.linkedin.com/in/ranga-dharma-teja-kuntumalla-127b59239).
