@@ -33,8 +33,10 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuT3vIwZ347Pzo8ZX4s3nNsdLHUqfYPrWLyw&s" width="160"/> &nbsp; &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linux_logo_icon_171222.png" width="145"/> &nbsp; &nbsp;
 <img src="https://www.datocms-assets.com/75231/1685623959-aws-3.png?fm=webp" width="146" height = "70"/> &nbsp; &nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAABUoTg0hRIRysVXsNZg21ojLCOSsljUElA&s" width="101" height = "50"/> &nbsp; &nbsp;
-<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2015-2017.png" width="115" height = "80"/> &nbsp; &nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAABUoTg0hRIRysVXsNZg21ojLCOSsljUElA&s" width="101" height = "48"/> &nbsp; &nbsp;
+<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2015-2017.png" width="115" height = "86"/> &nbsp; &nbsp;
+<img src="https://concisesoftware.com/wp-content/uploads/2020/01/Kubernetes-logo.png" width="125" height = "86"/> &nbsp; &nbsp;
+
 
 
 
