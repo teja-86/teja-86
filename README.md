@@ -32,6 +32,7 @@
 ![](https://camo.githubusercontent.com/bbfc91d1722146450deba77bd68fc168ca346890f377fa0d77b27e906797cca5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d617232312e737667)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuT3vIwZ347Pzo8ZX4s3nNsdLHUqfYPrWLyw&s" width="160"/> &nbsp; &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linux_logo_icon_171222.png" width="145"/> &nbsp; &nbsp;
+<img src="https://www.datocms-assets.com/75231/1685623959-aws-3.png?fm=webp" width="146" height = "70"/> &nbsp; &nbsp;
 
 # Do you want to see my projects?
 ## TweetHub
