@@ -50,7 +50,7 @@
 ## Portfolio
 [![](https://github.com/teja-86/Portfolio/blob/main/public/assets/MyPortfolio.jpg)](https://portfolio-wbod.onrender.com/)
 ## RoyalTrips
-[![](https://github.com/teja-86/Online-Tourism-Website/blob/main/RoyalTrips%20Project.jpg)](https://tangerine-figolla-123be9.netlify.app/)
+[![](https://github.com/teja-86/RoyalTrips/blob/main/images/RoyalTrips%20Project.jpg)](https://tangerine-figolla-123be9.netlify.app/)
 # Contact Me
 - 📧 Email: [rangadharmateja0@gmail.com](rangadharmateja0@gmail.com).
 - 👨🏻‍💻 LinkedIn: [www.linkedin.com/in/ranga-dharma-teja-kuntumalla-127b59239](www.linkedin.com/in/ranga-dharma-teja-kuntumalla-127b59239).
