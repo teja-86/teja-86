@@ -1,4 +1,4 @@
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/788d3fc7-db37-4407-b0b1-9dcdefb63890"><div align="center">
+<div align="center">
   <h1>👋 Hi, I'm Teja</h1>
 </div>
 <div align="center">
