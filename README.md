@@ -1,4 +1,4 @@
-<div align="center">
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/788d3fc7-db37-4407-b0b1-9dcdefb63890"><div align="center">
   <h1>👋 Hi, I'm Teja</h1>
 </div>
 <div align="center">
@@ -43,6 +43,8 @@
 # Do you want to see my projects?
 ## TweetHub
 [![](https://github.com/teja-86/TweetHub/blob/master/frontend/TweetHub%20Project%20.jpg)](https://tweethub-adle.onrender.com)
+## NexusChat
+[![]()](https://nexuschat-1.onrender.com)
 ## CareerConnect Pro
 [![](https://github.com/teja-86/CareerConnect-Pro/blob/main/CareerConnectPro.jpg)](https://github.com/teja-86/CareerConnect-Pro)
 ## AI Text Summarizer
