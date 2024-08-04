@@ -44,7 +44,7 @@
 ## TweetHub
 [![](https://github.com/teja-86/TweetHub/blob/master/frontend/TweetHub%20Project%20.jpg)](https://tweethub-adle.onrender.com)
 ## NexusChat
-[![]()](https://nexuschat-1.onrender.com)
+[![](https://github.com/teja-86/NexusChat/blob/main/client/src/assets/NexusChat%20Project.jpg)](https://nexuschat-1.onrender.com)
 ## CareerConnect Pro
 [![](https://github.com/teja-86/CareerConnect-Pro/blob/main/CareerConnectPro.jpg)](https://github.com/teja-86/CareerConnect-Pro)
 ## AI Text Summarizer
