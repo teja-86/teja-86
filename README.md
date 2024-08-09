@@ -10,8 +10,8 @@
     </a>
     <a href="https://leetcode.com/u/ranga_dharma_teja/">
         <img src="https://img.shields.io/badge/Leetcode-orange" alt="Leetcode Profile">
-    <a href="https://www.linkedin.com/in/ranga-dharma-teja-kuntumalla-127b59239/">
       </a>
+    <a href="https://www.linkedin.com/in/ranga-dharma-teja-kuntumalla-127b59239/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn Profile">
     </a>
 </p>
