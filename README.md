@@ -1,9 +1,20 @@
 <div align="center">
-  <h1>👋 Hi, I'm Teja</h1>
+  <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> Hi, I'm Teja</h1>
 </div>
 <div align="center">
   <h1>✨🎉🎊Web Developer✨🎉🎊</h1>
 </div>
+<p align="center">
+    <a href="https://github.com/teja-86">
+        <img src="https://img.shields.io/badge/Github-blue" alt="GitHub Profile">
+    </a>
+    <a href="https://leetcode.com/u/ranga_dharma_teja/">
+        <img src="https://img.shields.io/badge/Leetcode-orange" alt="Leetcode Profile">
+    <a href="https://www.linkedin.com/in/ranga-dharma-teja-kuntumalla-127b59239/">
+      </a>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn Profile">
+    </a>
+</p>
 
 # About Me
 - 😄 I've already mastered MERN Stack | AWS | CI/CD | Data Structures and Algorithms.
@@ -56,3 +67,21 @@
 # Contact Me
 - 📧 Email: [rangadharmateja0@gmail.com](rangadharmateja0@gmail.com).
 - 👨🏻‍💻 LinkedIn: [www.linkedin.com/in/ranga-dharma-teja-kuntumalla-127b59239](www.linkedin.com/in/ranga-dharma-teja-kuntumalla-127b59239).
+--- 
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teja-86&theme=github" alt="GitHub Profile Summary">
+</div>
+---  
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teja-86&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teja-86&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teja-86&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=teja-86&theme=github&utcOffset=5.30">
+</div>
+
+----
+
+<p align="center">
+  <img  src="https://streak-stats.demolab.com?user=teja-86&theme=highcontrast&hide_border=true&border_radius=5&card_width=800?v=1">
+</p>
