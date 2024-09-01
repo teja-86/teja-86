@@ -79,6 +79,8 @@
 [![](https://github.com/teja-86/TweetHub/blob/master/frontend/TweetHub%20Project%20.jpg)](https://tweethub-adle.onrender.com)
 ## NexusChat
 [![](https://github.com/teja-86/NexusChat/blob/main/client/src/assets/NexusChat%20Project.jpg)](https://nexuschat-1.onrender.com)
+## Promptopia
+[![](https://github.com/teja-86/Promptopia/blob/main/public/assets/images/Promptopia.jpg)](https://promptopia-liard-three.vercel.app/)
 ## CareerConnect Pro
 [![](https://github.com/teja-86/CareerConnect-Pro/blob/main/CareerConnectPro.jpg)](https://github.com/teja-86/CareerConnect-Pro)
 ## AI Text Summarizer
