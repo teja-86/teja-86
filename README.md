@@ -40,9 +40,9 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/> |   
 
 ### Backend Development & Framework:
-| Node.js | Express.js | Socket.io | REST   | 
-|---------|------------|-----------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket" alt="Socket" width="55" height="55"/> | <img src="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" title="REST" alt="REST" width="80" height="65"/> |
+| Node.js | Express.js | Socket.io | REST   | GraphQL |
+|---------|------------|-----------|--------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket" alt="Socket" width="55" height="55"/> | <img src="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" title="REST" alt="REST" width="80" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="REST" alt="REST" width="80" height="65"/>
 
 ### Database:
 | MongoDB | MySQL | 
