@@ -45,9 +45,9 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket" alt="Socket" width="55" height="55"/> | <img src="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" title="REST" alt="REST" width="80" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="REST" alt="REST" width="80" height="65"/>
 
 ### Database:
-| MongoDB | MySQL | 
-|---------|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |
+| MongoDB | MySQL | Redis |
+|---------|-------|-------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="55" height="55"/>
 
 ### Devops:
 | AWS | Docker | Jenkins | Kubernetes | GitLab |
