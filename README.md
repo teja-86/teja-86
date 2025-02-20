@@ -79,6 +79,8 @@
 [![](https://github.com/teja-86/TweetHub/blob/master/frontend/TweetHub%20Project%20.jpg)](https://tweethub-adle.onrender.com)
 ## NexusChat
 [![](https://github.com/teja-86/NexusChat/blob/main/client/src/assets/NexusChat%20Project.jpg)](https://nexuschat-1.onrender.com)
+## E-Commerce
+[![](https://github.com/teja-86/ECommerce/blob/main/frontend/public/images/E-Commerce%20Project.png)](https://e-commerce-eight-blue.vercel.app)
 ## Promptopia
 [![](https://github.com/teja-86/Promptopia/blob/main/public/assets/images/Promptopia.jpg)](https://promptopia-liard-three.vercel.app/)
 ## CareerConnect Pro
