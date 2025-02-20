@@ -18,7 +18,7 @@
 
 # About Me
 - 😄 I've already mastered MERN Stack & NextJs | AWS | CI/CD | Data Structures and Algorithms.
-- 🔭 I’m currently working on MERN Stack & NextJs Technologies.
+- 🔭 I’m currently working on MERN Stack & NextJs Technologies with Cloud-Native Solutions.
 - 🔔 Ask me anything about web development.
 - ✨ Consistently Coding on LeetCode [Leetcode](https://leetcode.com/u/ranga_dharma_teja/)
 - 😊 Reach out me [rangadharmateja0@gmail.com](rangadharmateja0@gmail.com)
